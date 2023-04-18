@@ -1,0 +1,15 @@
+C:\Users\Kodlama\source\repos\HightScore\HightScore\bin\Debug\net6.0\HightScore.exe
+C:\Users\Kodlama\source\repos\HightScore\HightScore\bin\Debug\net6.0\HightScore.deps.json
+C:\Users\Kodlama\source\repos\HightScore\HightScore\bin\Debug\net6.0\HightScore.runtimeconfig.json
+C:\Users\Kodlama\source\repos\HightScore\HightScore\bin\Debug\net6.0\HightScore.dll
+C:\Users\Kodlama\source\repos\HightScore\HightScore\bin\Debug\net6.0\HightScore.pdb
+C:\Users\Kodlama\source\repos\HightScore\HightScore\obj\Debug\net6.0\HightScore.csproj.AssemblyReference.cache
+C:\Users\Kodlama\source\repos\HightScore\HightScore\obj\Debug\net6.0\HightScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kodlama\source\repos\HightScore\HightScore\obj\Debug\net6.0\HightScore.AssemblyInfoInputs.cache
+C:\Users\Kodlama\source\repos\HightScore\HightScore\obj\Debug\net6.0\HightScore.AssemblyInfo.cs
+C:\Users\Kodlama\source\repos\HightScore\HightScore\obj\Debug\net6.0\HightScore.csproj.CoreCompileInputs.cache
+C:\Users\Kodlama\source\repos\HightScore\HightScore\obj\Debug\net6.0\HightScore.dll
+C:\Users\Kodlama\source\repos\HightScore\HightScore\obj\Debug\net6.0\refint\HightScore.dll
+C:\Users\Kodlama\source\repos\HightScore\HightScore\obj\Debug\net6.0\HightScore.pdb
+C:\Users\Kodlama\source\repos\HightScore\HightScore\obj\Debug\net6.0\HightScore.genruntimeconfig.cache
+C:\Users\Kodlama\source\repos\HightScore\HightScore\obj\Debug\net6.0\ref\HightScore.dll
